@@ -154,7 +154,7 @@ def game() :
 
 while True :
   print("---------------------------------------")
-  print("              yacht V 1.0")
+  print("              yacht v1.01")
   print("              made by kim")
   print("---------------------------------------")
   print("0. 프로그램 종료\n1. 게임 시작")
