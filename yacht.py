@@ -32,7 +32,7 @@ def sheet() :
 	sum = 0
 	for i in rule :
 		if str(type(i)) == "<class 'int'>" : sum += i
-		
+
 	print("\nSCORE                                {}".format(sum))
 	print("---------------------------------------")
 
